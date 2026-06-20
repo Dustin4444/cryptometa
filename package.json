@@ -21,7 +21,7 @@
     "ethers": "^5.3.0",
     "image-pixels": "^2.2.2",
     "lodash": "^4.17.21",
-    "looks-same": "^7.3.0",
+    "looks-same": "^10.0.1",
     "nearest-color": "^0.4.4",
     "prompts": "^2.4.1",
     "puppeteer": "^10.0.0",
